@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "866",
+  "base_artist": "=LOVE",
+  "createdAt": "2026-03-23T00:25:58.990428Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "2.665.866.746.664 Little Devils",
+      "artist": "Which Witch",
+      "has_synced": false,
+      "path": "select/01_2.665.866.746.664_Little_Devils_Which_Witch.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Egypte (866)",
+      "artist": "Stichting Opwekking",
+      "has_synced": true,
+      "path": "select/02_Egypte_(866)_Stichting_Opwekking.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "866",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/03_866_=LOVE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "866 (=LOVE 5th ANNIVERSARY PREMIUM CONCERT)",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/04_866_(=LOVE_5th_ANNIVERSARY_PREMIUM_CONCERT)_=LOVE.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "J.G. Seidl: Die Manner sind mechant, D 866,3",
+      "artist": "Kathleen Battle, James Levine",
+      "has_synced": false,
+      "path": "select/05_J.G._Seidl__Die_Manner_sind_mechant,_D_866,3_Kathleen_Battle,_James_Levine.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A State Of Trance (ASOT 866) (The Start Of Armada Music, Pt. 1)",
+      "artist": "Armin van Buuren",
+      "has_synced": false,
+      "path": "select/06_A_State_Of_Trance_(ASOT_866)_(The_Start_Of_Armada_Music,_Pt._1)_Armin_van_Buuren.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "All In (ASOT 866) (Maor Levi Remix)",
+      "artist": "Leon Lour; Victoria Duffield",
+      "has_synced": false,
+      "path": "select/07_All_In_(ASOT_866)_(Maor_Levi_Remix)_Leon_Lour;_Victoria_Duffield.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "866",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/pl_01_866_=LOVE.txt"
+    }
+  ]
+}
